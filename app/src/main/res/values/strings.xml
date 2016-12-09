@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="number_requested">A qué número desea calcular el factorial?</string>
+    <string name="inputHint">Número entero</string>
+</resources>
